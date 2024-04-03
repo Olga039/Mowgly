@@ -14,9 +14,9 @@ Swift, SwiftUI, XCode, Figma, Sketch, Adobe Photoshop
 
 # Coding Topics
 
-★ Enums
-★ State Objects
-★ Array Appending
-★ AudioPlayer
-★ ScrollView
-★ SpeechSynthesizer
+- Enums
+- State Objects
+- Array Appending
+- AudioPlayer
+- ScrollView
+- SpeechSynthesizer
