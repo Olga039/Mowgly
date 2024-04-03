@@ -8,6 +8,6 @@ Mowgly serves as an interactive learning tool that introduces users to the diver
 
 ![zxs1](https://github.com/Olga039/Mowgly/assets/147190274/b1a2fa48-e79b-4ddd-8bc4-c6c811e493f4)
 
-# Skills
+# 02 Skills
 
 Swift, SwiftUI, XCode, Figma, Sketch, Adobe Photoshop
