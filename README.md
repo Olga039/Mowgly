@@ -11,3 +11,12 @@ Mowgly serves as an interactive learning tool that introduces users to the diver
 # 02 Skills
 
 Swift, SwiftUI, XCode, Figma, Sketch, Adobe Photoshop
+
+# Coding Topics
+
+★ Enums
+★ State Objects
+★ Array Appending
+★ AudioPlayer
+★ ScrollView
+★ SpeechSynthesizer
