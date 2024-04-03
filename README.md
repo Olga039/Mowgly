@@ -4,3 +4,4 @@
 Challenge 5
 
 # 01 OverView
+Mowgly serves as an interactive learning tool that introduces users to the diverse world of animals through both visual and auditory experiences. By tapping on images of animals to hear their sounds, users, especially children, can strengthen their cognitive connections between species, their images, and their unique sounds. Including various languages for the names of these animals adds a linguistic educational layer, promoting multilingual learning and cultural awareness from an early age.
