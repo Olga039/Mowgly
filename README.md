@@ -1,2 +1,2 @@
 # Mowgly
-![2q2](https://github.com/Olga039/Mowgly/assets/147190274/ac4485ce-174f-4f42-9766-854f86257872)
+![33w](https://github.com/Olga039/Mowgly/assets/147190274/8bf4dacb-dd4a-4785-9dc8-e53565b2a414)
