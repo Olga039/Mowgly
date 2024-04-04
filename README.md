@@ -29,7 +29,8 @@ Swift, SwiftUI, XCode, Figma, Sketch, Adobe Photoshop
 # 04 Demo
 
 
-https://github.com/Olga039/Mowgly/assets/147190274/8435abae-5951-4f7f-9927-d38ade1548a0
+https://github.com/Olga039/Mowgly/assets/147190274/80d0cf54-6aa5-461f-995c-9e5568e92fdb
+
 
 
 
