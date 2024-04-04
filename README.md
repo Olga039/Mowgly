@@ -27,3 +27,4 @@ Swift, SwiftUI, XCode, Figma, Sketch, Adobe Photoshop
 - Dictionary
 
 # 04 Demo
+https://github.com/Olga039/Mowgly/assets/147190274/54d357ea-51ca-4f9e-92ae-927fa5ea16fb
